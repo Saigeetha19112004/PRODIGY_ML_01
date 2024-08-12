@@ -1,2 +1,2 @@
-# PRODIGY_ML_01
+# MACHINE_LEARNING_PROJECTS
 House Cost Predictor
